@@ -11,11 +11,10 @@
 
 This is a repository in which I store my learning math endeavors, I started the journey following the excellent [fast.ai](https://course.fast.ai/) course, and I will continue to add more stuff as I learn more.
 
-## Available notebooks
+## Pre requisites for dev containers
 
-- `calculus-slopes-refresher.ipynb` is a notebook to refresh your memory about calculus and slopes
-- `derivatives-refresher.ipynb` is a notebook to refresh your memory about derivatives
-- `quadratic-refresher.ipynb` is a notebook to refresh your memory about quadratic equations
+- Docker
+- VSCode
 
 ## Contribution guidelines
 
